@@ -1,0 +1,6 @@
+@iForce.Backend_HostAddress = http://localhost:5261
+
+POST {{iForce.Backend_HostAddress}}/api/auth/login
+Accept: application/json
+
+###
